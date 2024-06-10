@@ -1,6 +1,8 @@
 {
   "name": "my-store-app",
+  "description": "nodejs-aws-shop-react",
   "version": "1.0.0",
+  "author": "zzVIPz",
   "private": true,
   "scripts": {
     "start": "vite",

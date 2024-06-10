@@ -1,5 +1,10 @@
 # React-shop-cloudfront
 
+## Links
+
+CloudFront - http://d3bxh5egtazrmo.cloudfront.net
+S3 (Access Denied error) - https://rsschool-s3.s3.amazonaws.com/index.html
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
